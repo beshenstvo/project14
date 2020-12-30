@@ -1,0 +1,44 @@
+{
+  "persons": [
+    {
+      "id": 1,
+      "name": "Rufina",
+      "surname": "Gataullina",
+      "phone": "79163398114",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "name": "Polina",
+      "surname": "Zaplatina",
+      "phone": "79167865412",
+      "type": 1
+    },
+    {
+      "id": 3,
+      "name": "Masha",
+      "surname": "Lipnick",
+      "phone": "79568976534",
+      "type": 2
+    },
+    {
+      "id": 4,
+      "name": "Lola",
+      "surname": "Ferinova",
+      "phone": "79765674322",
+      "type": 3
+    },
+    {
+      "name": "уу",
+      "surname": "уу",
+      "type": 3,
+      "id": 5
+    },
+    {
+      "name": null,
+      "surname": null,
+      "type": null,
+      "id": 6
+    }
+  ]
+}
